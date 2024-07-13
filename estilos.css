@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color:rgb(10, 9, 9)
+}
+img{
+    max-width: fit-content;
+    float: left;
+    border: 3px ;
+    border-radius: 10px;
+    margin-right: 15px;
+
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(72, 72, 143);
+}
+
+
+
+h4{
+
+    color: blue;
+}
+p1{
+    text-align: center;
+    font-style: oblique;
+    color: black;
+}
+
+p2{
+   text-align: end;
+    font-style: oblique;
+    color: black;
+}
+
+fron{
+
+}
